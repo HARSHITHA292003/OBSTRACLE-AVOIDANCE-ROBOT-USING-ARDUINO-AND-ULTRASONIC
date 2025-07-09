@@ -69,6 +69,9 @@ The Arduino sketch:
 ![Obstacle Avoiding Robot- circuit diagram](https://github.com/user-attachments/assets/3f77edda-f76e-4d50-a7ea-901af7f48335)
 
 
+<img width="190" alt="OA_bot" src="https://github.com/user-attachments/assets/cc4aa91b-8ffe-4a6e-bda8-12d592ae47b7" />
+
+
 > Key connections:
 - HC-SR04:  
   - Trigger → D9  
