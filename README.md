@@ -39,9 +39,9 @@ This project implements an **autonomous obstacle avoidance robot** using an **Ar
 
 | File                    | Description                                  |
 |-------------------------|----------------------------------------------|
-| `obstacle_avoider.ino`  | Arduino code for controlling the robot logic |
+| `ultrasonic.ino`  | Arduino code for controlling the robot logic |
 | `README.md`             | This documentation file                      |
-| `circuit_diagram.jpg`   | Wiring and connection diagram                |
+| `Obstacle Avoiding Robot- circuit diagram.jpg`   | Wiring and connection diagram                |
 
 
 ---
@@ -66,7 +66,8 @@ The Arduino sketch:
 
 ## 🔌 Circuit Diagram
 
-> *(Insert `circuit_diagram.jpg` here)*  
+![Obstacle Avoiding Robot- circuit diagram](https://github.com/user-attachments/assets/2697347a-e18d-46c3-941e-b5946eecb588)
+
 > Key connections:
 - HC-SR04:  
   - Trigger → D9  
@@ -74,15 +75,10 @@ The Arduino sketch:
 - Servo Signal → D10  
 - Motor Driver IN1–IN4 → D3, D4, D5, D6 (can vary)  
 - 2000mAh Battery → Motor Driver power input  
-- Arduino 5V/GND shared with Servo and HC-SR04 (if current is safe)
+- Arduino 5V/GND shared with Servo and HC-SR04 
 
 ---
 
-## ✅ Demo Output
-
-> Insert video/screenshot of the robot moving forward and turning away from obstacles based on sensor feedback.
-
----
 
 ## 🚀 Future Enhancements
 
