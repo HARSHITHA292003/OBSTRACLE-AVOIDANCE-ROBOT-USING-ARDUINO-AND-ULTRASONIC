@@ -66,7 +66,8 @@ The Arduino sketch:
 
 ## 🔌 Circuit Diagram
 
-![Obstacle Avoiding Robot- circuit diagram](https://github.com/user-attachments/assets/2697347a-e18d-46c3-941e-b5946eecb588)
+![Obstacle Avoiding Robot- circuit diagram](https://github.com/user-attachments/assets/3f77edda-f76e-4d50-a7ea-901af7f48335)
+
 
 > Key connections:
 - HC-SR04:  
